@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Phantom Pilot (adaptive AI simulation using C++ & Qt), SkyGuard (object detection with YOLO), and DevTwin (RAG-based AI assistant).**
 - 🌱 I’m currently deep diving into **PyTorch, YOLO, pgvector, and Spring Boot.**
-- 👨‍💻 All of my projects are available at [https://github.com/nyeht](https://github.com/nyeht)
+- 👨‍💻 All of my projects are available at [https://github.com/enestsc](https://github.com/enestsc)
 - 💬 Ask me about **Computer Vision, Embedded Software, Java/Spring Boot, and C++/Qt.**
 - 📫 How to reach me: **enestsc06@gmail.com**
 - 📄 Know more about my experiences and portfolio: [enestsc.com](https://enestsc.com)
